@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Shariar-Nahid/shariar-nahid/issues"
   },
-  "homepage": "https://github.com/Shariar-Nahid/shariar-nahid#readme"
+  "homepage": "https://github.com/Shariar-Nahid/shariar-nahid#readme",
+  "dependencies": {
+    "bootstrap": "^5.0.0-beta1"
+  }
 }
