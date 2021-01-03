@@ -1,0 +1,19 @@
+{
+  "name": "learn-git",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shariar-Nahid/shariar-nahid.git"
+  },
+  "author": "shariar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Shariar-Nahid/shariar-nahid/issues"
+  },
+  "homepage": "https://github.com/Shariar-Nahid/shariar-nahid#readme"
+}
